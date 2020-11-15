@@ -1,0 +1,11 @@
+--extra-index-url=https://artifacts.se.axis.com/artifactory/api/pypi/pypi-sandbox/simple
+imagine_radar_py>=1.0.0
+
+numpy>=1.17.2
+metayaml>=0.25
+pyqt5==5.13.1 # Version 5.14.1 does not seem to want to install
+opencv_python>=4.1.1.26
+pyqtgraph>=0.10.0
+pyserial>=3.4
+matplotlib>=3.0.3
+pycodestyle>=2.5.0
